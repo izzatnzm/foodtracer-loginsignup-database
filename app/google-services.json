@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574077007060",
+    "project_id": "foodtracerbase",
+    "storage_bucket": "foodtracerbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574077007060:android:3db36205c7f695f4c07741",
+        "android_client_info": {
+          "package_name": "com.example.foodtracer_loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDyVtyALpKp9HRehxHCG5DGM0NytNpfdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
